@@ -6,6 +6,9 @@
 
 - After cloning the repository
 - run : `npm install --lagacy-peer-deps`
+- Make a `.env` file in the root folder with the API keys:
+- `REACT_APP_RAPID_API_KEY= 
+   ESLINT_NO_DEV_ERRORS=true`
 - To run the app, run : `npm start`
 - To build the app, run: `npm run build`
 
