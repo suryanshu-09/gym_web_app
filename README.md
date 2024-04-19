@@ -11,9 +11,9 @@
   `npm install --lagacy-peer-deps`
 
 - Make a `.env` file in the root folder with the API keys:
- ```REACT_APP_RAPID_API_KEY= 
-
-   ESLINT_NO_DEV_ERRORS=true
+ ```
+ REACT_APP_RAPID_API_KEY= 
+ ESLINT_NO_DEV_ERRORS=true
    ```
    
 - To run the app server, run : 
