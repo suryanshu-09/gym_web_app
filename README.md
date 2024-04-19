@@ -22,4 +22,4 @@
 - To build the app, run: 
   `npm run build`
 
-- The site is alternatively being hosted [here](https://662232882253cea00e88c0af--musical-nougat-ce70d3.netlify.app){:target="_blank"} using Netlify.
+- The site is alternatively being hosted [here](https://662232882253cea00e88c0af--musical-nougat-ce70d3.netlify.app) using Netlify.
