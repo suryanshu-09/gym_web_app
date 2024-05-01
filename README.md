@@ -26,4 +26,4 @@
 
 `npm run build`
 
-- The site is alternatively being hosted [here](https://662232882253cea00e88c0af--musical-nougat-ce70d3.netlify.app) using Netlify.
+- The site is alternatively being hosted [here](https://6631ff5b93de539b16969d1a--prismatic-rugelach-b1265e.netlify.app) using Netlify.
